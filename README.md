@@ -16,23 +16,20 @@ Welcome to my GitHub! I'm passionate about turning data into actionable insights
 
 ### 🎮 Text Analysis for Ubisoft
 Analyzed player feedback to uncover key satisfaction drivers and areas for improvement, delivering insights to enhance the gaming experience.  
-**Tech:** Python (NLTK, spaCy), Tableau  
 
 [View Project →](#)  
 
 ---
 
 ### 🐆 Sentiment Analysis for Jaguar
-Conducted sentiment analysis on Jaguar's customer reviews to guide marketing and product strategies.  
-**Tech:** Python (TextBlob, sklearn), Power BI  
+Conducted sentiment analysis on Jaguar's customer reviews to guide marketing and product strategies.    
 
 [View Project →](#)
 
 ---
 
 ### 📊 Customer Lifecycle Management Analytics
-Built a full-cycle analysis of customer behavior, identifying retention patterns and churn risks to optimize lifecycle strategies.  
-**Tech:** SQL, R, Tableau  
+Built a full-cycle analysis of customer behavior, identifying retention patterns and churn risks to optimize lifecycle strategies.    
 
 [View Project →](#)
 
