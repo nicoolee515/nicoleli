@@ -24,7 +24,7 @@ Analyzed player feedback to uncover key satisfaction drivers and areas for impro
 ### 🐆 Sentiment Analysis for Jaguar
 Conducted sentiment analysis on Jaguar's customer reviews to guide marketing and product strategies.    
 
-[View Project →](#)
+[View Project →](https://github.com/nicoolee515/nicoleli/blob/main/Jaguar_Project.ipynb)
 
 ---
 
