@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm passionate about turning data into actionable insights
 ### 🎮 Text Analysis for Ubisoft
 Analyzed player feedback to uncover key satisfaction drivers and areas for improvement, delivering insights to enhance the gaming experience.  
 
-[View Project →](#)  
+[View Project →](https://github.com/nicoolee515/nicoleli/blob/main/Ubisoft_Project.ipynb)
 
 ---
 
