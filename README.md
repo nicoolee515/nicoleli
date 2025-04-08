@@ -31,7 +31,7 @@ Conducted sentiment analysis on Jaguar's customer reviews to guide marketing and
 ### 📊 Customer Lifecycle Management Analytics
 Built a full-cycle analysis of customer behavior, identifying retention patterns and churn risks to optimize lifecycle strategies.    
 
-[View Project →](#)
+[View Project →](https://github.com/nicoolee515/nicoleli/blob/main/Customer%20Lifecycle%20Management.ipynb)
 
 ---
 
